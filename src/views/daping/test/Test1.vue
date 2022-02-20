@@ -6,7 +6,7 @@
 
 
   export default {
-    name:'',
+    name:'aa',
     data () {
       return {
 
