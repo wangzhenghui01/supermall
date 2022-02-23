@@ -52,7 +52,7 @@ export default {
             hoverAnimation: false,
             itemStyle: {
               normal: {
-                borderColor: bgColor,
+                borderColor: "#fff",
                 borderWidth: 6
               }
             }
